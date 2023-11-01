@@ -16,4 +16,4 @@ const hundreds = 100000
 // console.log(Math.random()*5)
 const max = 20
 const min = 10
-console.log(Math.round(Math.random() * (max - min)) + min)
+console.log(Math.round(Math.random() * (max - min)) + min) 
